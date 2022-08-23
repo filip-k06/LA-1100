@@ -6,8 +6,8 @@ Filip Kritzner
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+|       | 0.0.1   |Ich habe User-Stories erstellt.|
+|       | 0.0.2   |Ich habe ein Diagramm hinzugefügt.|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
