@@ -14,14 +14,18 @@ Filip Kritzner
 
 ### 1.1 Ihr Projekt
 
-Das Projekt wird ein Random Number Guesser.
+Das Projekt wird ein Random Number Guesser .
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |Muss             |      | Als ein User möchte ich nur Zahlen zwischen 1-100 eingeben können, damit das Programm nicht abstürtzt|
+|2     |Muss             |      |Als ein User möchte ich meine zuletzt eingegebenen Zahlen sehen können, damit ich nicht die gleiche Zahl zweimal eingebe|
+|3     |Muss             |      |Als ein User möchte ich wissen, ob die eingegebene Zahl zu hoch oder zu tief ist, damit es einfacher ist die Lösung zu erraten|
+|4     |Muss             |      |Als ein User möchte ich wissen, ob die gesuchte Zahl erraten wurde und wie viele Versuche ich gebraucht habe, damit ich mich mit mir selber vergleichen kann|
+|5     |Muss             |      |Als User möchte ich mithilfe von Farben dargestellt bekommen, ob die eingegebene Zahl der gesuchten entspricht oder nicht, damit ich es schnell und klar sehe|
+|6     |kann             |      |Als User möchte ich sehen, ob die Zahl die ich eingegeben habe akzeptiert wurde (z.B. String wurde erkannt und Fehler ausgegeben)|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
