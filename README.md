@@ -9,6 +9,7 @@ Filip Kritzner
 |       | 0.0.1   |Ich habe User-Stories erstellt.|
 |       | 0.0.2   |Ich habe ein Diagramm hinzugefügt.|
 |       | 0.0.3   |Ich habe Testfälle erstellt.|
+|       | 0.0.4   |Ich habe Arbeitspakete erstellt.|
 
 ## 1 Informieren
 
