@@ -40,7 +40,7 @@ Das Projekt wird ein Random Number Guesser .
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![1100_Diagramm](https://user-images.githubusercontent.com/110892683/186111265-f993801c-6f35-4aa1-a577-ac57c2c8e5cc.png)
 
 ## 2 Planen
 
