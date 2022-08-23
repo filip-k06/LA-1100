@@ -33,8 +33,13 @@ Das Projekt wird ein Random Number Guesser .
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Programm gestartet | Eine Zahl eingeben | Das Programm ist nicht abgestürtzt. |
+| 1.2 | Programm gestartet | Einen Text eingeben | Das Programm gibt einen Fehler aus. |
+| 2.1 | Programm gestartet | Eine Zahl eingeben | Das Programm zeigt meine eingegebenen Zahlen. |
+| 3.1 | Programm gestartet | Eine Zahl eingeben | Das Programm sagt, ob die Zahl zu hoch oder zu tief ist. |
+| 4.1  | Programm gestartet | Eine Zahl eingeben | Das Programm gibt an, ob meine Zahl der gesuchten Zahl enspricht. |
+| 5.1  | Programm gestartet | Eine Zahl eingeben | Das Programm zeigt mit Farben an, ob die gesuchte Zahl erraten wurde. |
+| 6.1  | Programm gestartet | Eine Zahl oder Text eingeben | Wenn ein Text eingegeben wurde, gibt das Programm einen Fehler aus und gibt den Hinweis, dass nur Zahlen zwischen 1-100 akzeptiert werden. |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
