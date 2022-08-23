@@ -8,7 +8,7 @@ Filip Kritzner
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   |Ich habe User-Stories erstellt.|
 |       | 0.0.2   |Ich habe ein Diagramm hinzugefügt.|
-|       | 1.0.0   |                                                              |
+|       | 0.0.3   |Ich habe Testfälle erstellt.|
 
 ## 1 Informieren
 
