@@ -52,12 +52,12 @@ Das Projekt wird ein Random Number Guesser .
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 30.08.2022 |           | Der User muss Zahlen eingeben können | 30min |
+| 1.A  | 30.08.2022 |           | Der User muss Zahlen eingeben können | 15min |
 | 2.A  | 30.08.2022 |           | Wenn der User Texte eingibt, soll ein Fehler angezeigt werden | 60min |
-| 3.A  | 30.08.2022 |           | Das Programm gibt an, ob die eingegebene Zahl tiefer oder höher ist als die generierte | 30min |
-| 4.A  | 30.08.2022 |           | Das Programm kann die eingegebene Zahl mit der generierten Vergleichen | 30min |
-| 5.A  | 30.08.2022 |           | Es sollen Farben angezeigt werden | 45min |
-| 6.A  | 30.08.2022 |           | Wenn ein Text eingegeben wird, soll der Hinweis angezeigt werden, dass nur Zahlen zwischen 1-100 erlaubt sind | 60min |
+| 3.A  | 30.08.2022 |           | Das Programm gibt an, ob die eingegebene Zahl tiefer oder höher ist als die generierte | 15min |
+| 4.A  | 30.08.2022 |           | Das Programm kann die eingegebene Zahl mit der generierten Vergleichen | 15min |
+| 5.A  | 30.08.2022 |           | Es sollen Farben angezeigt werden | 30min |
+| 6.A  | 30.08.2022 |           | Wenn eine Zahl über 100 eingegeben wird, soll der Hinweis angezeigt werden, dass nur Zahlen zwischen 1-100 erlaubt sind | 30min |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -72,8 +72,12 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 30.08.2022 | Filip | 15min | 20min |
+| 2.A  | 30.08.2022 | Filip | 60min | 45min |
+| 3.A  | 30.08.2022 | Filip | 15min | 10min |
+| 4.A  | 30.08.2022 | Filip | 15min | 20min |
+| 5.A  | 30.08.2022 | Filip | 30min | 60min |
+| 6.A  | 30.08.2022 | Filip | 30min | 45min |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
