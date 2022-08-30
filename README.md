@@ -10,6 +10,7 @@ Filip Kritzner
 |       | 0.0.2   |Ich habe ein Diagramm hinzugefügt.|
 |       | 0.0.3   |Ich habe Testfälle erstellt.|
 |       | 0.0.4   |Ich habe Arbeitspakete erstellt.|
+|       | 0.0.5   |Ich "Realisieren" ausgefüllt.|
 
 ## 1 Informieren
 
