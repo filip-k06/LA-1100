@@ -4,12 +4,10 @@ Filip Kritzner
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |Ich habe User-Stories erstellt.|
-|       | 0.0.2   |Ich habe ein Diagramm hinzugefügt.|
-|       | 0.0.3   |Ich habe Testfälle erstellt.|
-|       | 0.0.4   |Ich habe Arbeitspakete erstellt.|
-|       | 0.0.5   |Ich habe "Realisieren" ausgefüllt.|
-|       | 0.0.6   |Ich habe neue User-Stories und Arbeitspakete erstellt.|
+|23.08.22| 0.0.1   |Ich habe die Projektdokumentation erstellt.|
+|30.08.22| 0.0.2   |Ich habe angefangen den Random Number Guesser zu programmieren.|
+|06.09.22| 0.0.3   |Ich habe den Random Number Guesser fertiggestellt.|
+
 
 ## 1 Informieren
 
@@ -61,6 +59,7 @@ Das Projekt wird ein Random Number Guesser .
 Total: 
 ## 3 Entscheiden
 
+Als ich bereits frühzeitig mit dem Programm fertig geworden bin, habe ich noch Zusatz Features wie Sounds hinzugefügt.
 
 ## 4 Realisieren
 
