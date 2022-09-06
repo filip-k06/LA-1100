@@ -39,6 +39,10 @@ Das Projekt wird ein Random Number Guesser .
 | 4.1  | Programm gestartet | *34* | Das Programm gibt an, ob meine Zahl der gesuchten Zahl enspricht. *"Sie haben die Zahl erraten!"* |
 | 5.1  | Programm gestartet | *89* | Das Programm zeigt mit Farben an, ob die gesuchte Zahl erraten wurde. |
 | 6.1  | Programm gestartet | Eine Zahl oder Text eingeben | Wenn ein Text eingegeben wurde, gibt das Programm einen Fehler aus und gibt den Hinweis, dass nur Zahlen zwischen 1-100 akzeptiert werden. *"Es sind nur Zahlen zwischen 1-100 erlaubt!"* |
+| 7.1 | Programm gestartet | *15* | *"Der Zahlenbereich 1-15 wurde erfolgreich gewählt!"* |
+| 8.1 | Zahlenbereich gewählt und bereit zum Raten | *56* | *"Ihre Zahl ist zu hoch!"* wird ausgegeben und ein error sound wird abgespielt |
+| 8.2 | Zahlenbereich gewählt und bereit zum Raten | *25* | *"Sie haben die Zahl erraten!"* wird ausgegeben und ein victory sound wird abgespielt |
+| 8.3 | Der User hat das Spiel gewonnen und wird gefragt ob er eine weitere Runde spielen will |*"nein"* | Ein shutdown sound wird abgespielt |
 
 ### 1.4 Diagramme
 
@@ -72,6 +76,7 @@ Als ich bereits frühzeitig mit dem Programm fertig geworden bin, habe ich noch 
 | 5.A  | 30.08.2022 | Filip | 30min | 60min |
 | 6.A  | 30.08.2022 | Filip | 30min | 45min |
 | 7.A  | 06.09.2022 | Filip | 75min | 90min |
+| 8.A  | 06.09.2022 | Filip | 75min | 60min |
 
 ## 5 Kontrollieren
 
