@@ -84,6 +84,7 @@ Total:
 | 4.A  | 30.08.2022 | Filip | 15min | 20min |
 | 5.A  | 30.08.2022 | Filip | 30min | 60min |
 | 6.A  | 30.08.2022 | Filip | 30min | 45min |
+| 7.A  | 06.09.2022 | Filip | 75min | 90min |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
