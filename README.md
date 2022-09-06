@@ -28,6 +28,8 @@ Das Projekt wird ein Random Number Guesser .
 |4     |Muss             |      |Als ein User möchte ich wissen, ob die gesuchte Zahl erraten wurde und wie viele Versuche ich gebraucht habe, damit ich mich mit mir selber vergleichen kann|
 |5     |Muss             |      |Als User möchte ich mithilfe von Farben dargestellt bekommen, ob die eingegebene Zahl der gesuchten entspricht oder nicht, damit ich es schnell und klar sehe|
 |6     |kann             |      |Als User möchte ich sehen, ob die Zahl die ich eingegeben habe akzeptiert wurde (z.B. String wurde erkannt und Fehler ausgegeben), damit ich erkenne, dass ich einen Text eingegeben habe|
+|7     |kann             |      |Als User möchte ich bestimmen in welchem Zahlenbereich ich raten kann.|
+|8     |kann             |      |Als User möchte ich einen Sound hören, wenn ich die richtige Zahl erraten habe.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -59,6 +61,8 @@ Das Projekt wird ein Random Number Guesser .
 | 4.A  | 30.08.2022 |           | Das Programm kann die eingegebene Zahl mit der generierten Vergleichen | 15min |
 | 5.A  | 30.08.2022 |           | Es sollen Farben angezeigt werden | 30min |
 | 6.A  | 30.08.2022 |           | Wenn eine Zahl über 100 eingegeben wird, soll der Hinweis angezeigt werden, dass nur Zahlen zwischen 1-100 erlaubt sind | 30min |
+| 7.A  | 06.09.2022 |           | Der User soll eingeben können, in welchem Zahlenbereich er raten möchte. | 75min |
+| 8.A  | 06.09.2022 |           | Der User soll einen Sound hören wenn er gewinnt. | 75min |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
