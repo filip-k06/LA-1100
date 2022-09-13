@@ -8,7 +8,7 @@ Ich habe gelernt, wie man mit dem *try* und *catch* statement gezielt Eingabe-Fe
 
 ## Beschreibung
 
-Ich weiss nun, wie man richtig ein Try Catch Statement verwendet. Anhand des Bildes habe ich den Code ersichtlich gemacht. Das Gif ist eine Demonstration des Programms. Es gibt mehrere Exceptions. Ich habe jetzt aber gezielt nach einem Eingabe Fehler gesucht und habe dafür "System.FormatException" verwendet. 
+Ich weiss nun, wie man richtig ein Try Catch Statement verwendet. Anhand des Bildes habe ich den Code ersichtlich gemacht. Das Gif ist eine Demonstration des Programms. Bei der Catch Funktion gibt es mehrere Excpetions. Anhand der Exceptions kann man nach bestimmten Fehlern suchen. Ich habe jetzt aber gezielt nach einem Eingabe Fehler gesucht und habe dafür "System.FormatException" verwendet. 
 
 Bild
 ![image](https://user-images.githubusercontent.com/110892683/189852361-1593255b-7cbe-490f-83a3-6893cb59d631.png)
