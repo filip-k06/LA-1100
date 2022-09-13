@@ -10,11 +10,11 @@ Ich habe gelernt, wie man mit dem *try* und *catch* statement gezielt Eingabe-Fe
 
 Ich weiss nun, wie man richtig ein Try Catch Statement verwendet. Anhand des Bildes habe ich den Code ersichtlich gemacht. Das Gif ist eine Demonstration des Programms. Bei der Catch Funktion gibt es mehrere Excpetions. Anhand der Exceptions kann man nach bestimmten Fehlern suchen. Ich habe jetzt aber gezielt nach einem Eingabe Fehler gesucht und habe dafür "System.FormatException" verwendet. 
 
-Bild: <br>
+**Bild:** <br>
 ![image](https://user-images.githubusercontent.com/110892683/189852361-1593255b-7cbe-490f-83a3-6893cb59d631.png)
 
 
-Gif: <br>
+**Gif:** <br>
 ![C__Users_filip_source_repos_trycatch_trycatch_bin_Debug_net6 0_trycatch exe 2022-09-13 10-27-24](https://user-images.githubusercontent.com/110892683/189852143-fc3bd3aa-e1cb-448d-9a24-bf178197a361.gif)
 
 ## Verifikation
