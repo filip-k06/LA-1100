@@ -23,7 +23,7 @@ Beschreibung: Dient zum Verständnis des Codes und Gifs
 
 Gif: Demostration des Programms
 
-Bild des Codes: Das Bild zeigt ein typisches Try Catch Statement
+Bild des Codes: Das Bild zeigt ein typisches Try Catch Statement. Es dient zum Verständnis des Codes.
 
 ## Reflektion zum Arbeitsprozess
 
