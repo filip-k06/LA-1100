@@ -7,11 +7,23 @@ Ich habe ein Random Number Guesser programmiert und dabei vieles gelernt.
 Ich habe gelernt, wie man mit dem *try* und *catch* statement gezielt Eingabe-Fehler fangen kann.
 
 ## Beschreibung
-![image](https://user-images.githubusercontent.com/110892683/189847193-2ad2ca8f-38d2-463f-af7c-e43ea7fe9148.png)
+
+Ich weiss nun, wie man richtig ein Try Catch Statement verwendet. Anhand des Bildes habe ich den Code ersichtlich gemacht. Das Gif ist eine Demonstration des Programms. Es gibt mehrere Exceptions. Ich habe jetzt aber gezielt nach einem Eingabe Fehler gesucht und habe dafür "System.FormatException" verwendet. 
+
+Bild
+![image](https://user-images.githubusercontent.com/110892683/189852361-1593255b-7cbe-490f-83a3-6893cb59d631.png)
+
+
+Gif:
+![C__Users_filip_source_repos_trycatch_trycatch_bin_Debug_net6 0_trycatch exe 2022-09-13 10-27-24](https://user-images.githubusercontent.com/110892683/189852143-fc3bd3aa-e1cb-448d-9a24-bf178197a361.gif)
 
 ## Verifikation
 
-Bild des Codes: Das Bild zeigt ein Try Catch Statement
+Beschreibung: Dient zum Verständnis des Codes und Gifs
+
+Gif: Demostration des Programms
+
+Bild des Codes: Das Bild zeigt ein typisches Try Catch Statement
 
 ## Reflektion zum Arbeitsprozess
 
