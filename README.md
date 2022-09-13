@@ -84,8 +84,17 @@ Als ich bereits frühzeitig mit dem Programm fertig geworden bin, habe ich noch 
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 13.09.2022 | Erfolgreich | Filip Kritzner |
+| 1.2  | 13.09.2022 | Erfolgreich | Filip Kritzner |
+| 2.1  | 13.09.2022 | Erfolgreich | Filip Kritzner |
+| 3.1  | 13.09.2022 | Erfolgreich | Filip Kritzner |
+| 4.1  | 13.09.2022 | Erfolgreich | Filip Kritzner |
+| 5.1  | 13.09.2022 | Erfolgreich | Filip Kritzner |
+| 6.1  | 13.09.2022 | Erfolgreich | Filip Kritzner |
+| 7.1  | 13.09.2022 | Erfolgreich | Filip Kritzner |
+| 8.1  | 13.09.2022 | Erfolgreich | Filip Kritzner |
+| 8.2  | 13.09.2022 | Erfolgreich | Filip Kritzner |
+| 8.3  | 13.09.2022 | Erfolgreich | Filip Kritzner |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
