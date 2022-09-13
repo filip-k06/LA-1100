@@ -57,7 +57,7 @@ Das Projekt wird ein Random Number Guesser .
 | 3.A  | 30.08.2022 |Filip Kritzner| Das Programm gibt an, ob die eingegebene Zahl tiefer oder höher ist als die generierte | 15min |
 | 4.A  | 30.08.2022 |Filip Kritzner| Das Programm kann die eingegebene Zahl mit der generierten Vergleichen | 15min |
 | 5.A  | 30.08.2022 |Filip Kritzner| Es sollen Farben angezeigt werden | 30min |
-| 6.A  | 30.08.2022 |Filip Kritzner| Wenn eine Zahl über 100 eingegeben wird, soll der Hinweis angezeigt werden, dass nur Zahlen zwischen 1-100 erlaubt sind | 30min |
+| 6.A  | 30.08.2022 |Filip Kritzner| Wenn eine Zahl über dem gewählten Zahlenbereich eingegeben wird, soll der Hinweis angezeigt werden, dass nur Zahlen zwischen 1 - (gewählter Zahlenbereich) erlaubt sind | 30min |
 | 7.A  | 06.09.2022 |Filip Kritzner| Der User soll eingeben können, in welchem Zahlenbereich er raten möchte. | 75min |
 | 8.A  | 06.09.2022 |Filip Kritzner| Der User soll einen Sound hören wenn er gewinnt. | 75min |
 Total: 
