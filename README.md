@@ -19,7 +19,7 @@ Das Projekt wird ein Random Number Guesser .
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |Muss             |Funktional|Als ein User möchte ich nur Zahlen zwischen 1-100 eingeben können, damit das Programm nicht abstürtzt|
+| 1    |Muss             |Funktional|Als ein User möchte ich nur Zahlen eingeben können, damit das Programm nicht abstürtzt|
 |2     |Muss             |Funktional|Als ein User möchte ich meine zuletzt eingegebenen Zahlen sehen können, damit ich nicht die gleiche Zahl zweimal eingebe|
 |3     |Muss             |Funktional|Als ein User möchte ich wissen, ob die eingegebene Zahl zu hoch oder zu tief ist, damit es einfacher ist die Lösung zu erraten|
 |4     |Muss             |Funktional|Als ein User möchte ich wissen, ob die gesuchte Zahl erraten wurde und wie viele Versuche ich gebraucht habe, damit ich mich mit mir selber vergleichen kann|
@@ -38,7 +38,7 @@ Das Projekt wird ein Random Number Guesser .
 | 3.1 | Programm gestartet | *25* | Das Programm sagt, ob die Zahl zu hoch oder zu niedrig ist. *"Ihre Zahl ist zu niedrig!"* |
 | 4.1  | Programm gestartet | *34* | Das Programm gibt an, ob meine Zahl der gesuchten Zahl enspricht. *"Sie haben die Zahl erraten!"* |
 | 5.1  | Programm gestartet | *89* | Das Programm zeigt mit Farben an, ob die gesuchte Zahl erraten wurde. |
-| 6.1  | Programm gestartet | Eine Zahl oder Text eingeben | Wenn ein Text eingegeben wurde, gibt das Programm einen Fehler aus und gibt den Hinweis, dass nur Zahlen zwischen 1-100 akzeptiert werden. *"Es sind nur Zahlen zwischen 1-100 erlaubt!"* |
+| 6.1  | Programm gestartet | Eine Zahl oder Text eingeben | Wenn ein Text eingegeben wurde, gibt das Programm einen Fehler aus und gibt den Hinweis, dass nur Zahlen zwischen 1 - (gewählter Zahlenbereich) akzeptiert werden. *"Es sind nur Zahlen zwischen 1 - (gewählter Zahlenbereich) erlaubt!"* |
 | 7.1 | Programm gestartet | *15* | *"Der Zahlenbereich 1-15 wurde erfolgreich gewählt!"* |
 | 8.1 | Zahlenbereich gewählt und bereit zum Raten | *56* | *"Ihre Zahl ist zu hoch!"* wird ausgegeben und ein error sound wird abgespielt |
 | 8.2 | Zahlenbereich gewählt und bereit zum Raten | *25* | *"Sie haben die Zahl erraten!"* wird ausgegeben und ein victory sound wird abgespielt |
