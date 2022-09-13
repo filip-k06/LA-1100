@@ -28,7 +28,7 @@ Bild des Codes: Das Bild zeigt ein typisches Try Catch Statement
 ## Reflektion zum Arbeitsprozess
 
 **Was lief gut an der Arbeit:** <br>
-Dank der guten Planung konnte ich schnell Fortschritte machen und ich wusste auch wo ich meine fehlenden Informationen finden.
+Dank der guten Planung konnte ich schnell Fortschritte machen und ich wusste auch wo ich meine fehlenden Informationen finde.
 
 **Was lief nicht gut an der Arbeit:** <br>
 Ich hatte einen Fehler, den ich nicht finden konnte und ich habe schnell meine Motivation verloren, weil ich schon müde war und vergessen habe Pausen zu machen. Dazu war der Unterricht bald vorbei und ich wollte diesen Fehler noch beheben, dadurch habe ich mich noch selber gestresst.
